@@ -1,3 +1,4 @@
 [submodule "mastodon"]
 	path = mastodon
 	url = https://github.com/orphos/mastodon.git
+	shallow = true
